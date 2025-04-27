@@ -63,7 +63,7 @@ return <div className='spinner'></div>
   <span><i className='fas fa-star text-yellow-400'></i> {product.ratingsAverage}</span>
 </div>
 </Link>
-<button className='btn'>Add To Cart</button>
+<button className='btn'>Add ToOff Cart</button>
 </div>
 </div>
      ))
