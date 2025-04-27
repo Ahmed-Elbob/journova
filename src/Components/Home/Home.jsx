@@ -12,8 +12,8 @@ export default function Home() {
 
   return (
     <>
-    <MainSlider/>
-<CategoriesSlider/>
+    {/* <MainSlider/> */}
+{/* <CategoriesSlider/> */}
     <RecentProducts/>
     </>
    
